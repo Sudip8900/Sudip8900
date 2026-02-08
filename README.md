@@ -1,122 +1,18 @@
-# Legacy  
-### Sci-Fi Action Game | Unreal Engine 5 (Blueprint-Focused)
+# 💫 About Me:
+I am an Electronics Engineer, 3D Artist, and a Game Developer.<br>Currently working on a sci-fi action game named "Legacy"<br>
 
-**Legacy** is a sci-fi action game set in a simulated world, developed using **Unreal Engine 5** with a strong focus on **modular gameplay systems**, **component-based architecture**, and **modern RTX rendering features**.
 
-> 🎮 **Visual Gameplay Demo (~2 min)**  
-> Available on my [LinkedIn profile](https://www.linkedin.com/in/sudip-pan-7a3946253)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sudip Pan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudip_pan00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudip Pan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sudip Pan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamsudippan@gmail.com) 
 
----
-
-## 🧠 Project Overview
-- Engine: **Unreal Engine 5.7 (NVIDIA RTX Branch)**
-- Development Style: **Blueprint-Focused**
-- Architecture: **Component-Based Systems**
-- Version Control: **Perforce**
-- Project Type: Personal / Portfolio Project
-
-This project was built to explore **scalable gameplay architecture**, **advanced animation systems**, and **real-time performance optimization** using NVIDIA RTX technologies.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sudip8900&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sudip8900&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip8900&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sudip8900&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏗️ Core Systems & Features
-
-### ⚔️ Combat System (Component-Based)
-- Fully modular combat architecture implemented via Blueprint components
-- Supports multiple combat styles:
-  - Sword
-  - Rifle
-  - Punch
-  - Shield
-- Dodge system integrated with animation montages
-- Combat logic is **decoupled from the Character Blueprint**, allowing reuse and scalability
-
----
-
-### 👤 Player State System
-- Player stats and states implemented as **independent Blueprint components**
-- Clean separation between:
-  - Character visuals & movement
-  - Gameplay logic & player data
-- Designed for easy extension (abilities, buffs, debuffs, etc.)
-
----
-
-### 🧍 Character Movement & Animation
-- **Motion Matching** implemented for realistic and responsive locomotion
-- Animation-driven movement for improved visual fidelity
-- Combat montages integrated seamlessly with motion matching setup
-
----
-
-### 🤖 Enemy AI (Prototype)
-- Basic enemy AI created to:
-  - Test combat flow
-  - Validate animation montages
-  - Evaluate player feedback during combat
-- Focused on functionality rather than final behavior complexity
-
----
-
-### ⚙️ Settings Menu
-- In-game settings menu implemented using Blueprints
-- Supports:
-  - Graphics options
-  - Performance-related settings
-- Designed to integrate with RTX features
-
----
-
-## 🎨 Rendering & Performance
-Built using the **NVIDIA RTX branch of Unreal Engine 5.7**, integrating:
-
-- NVIDIA DLSS
-- DLSS Ray Reconstruction
-- DLSS Frame Generation
-- NVIDIA Image Scaling (NIS) Sharpening
-
-These features were used to study:
-- Performance vs visual quality trade-offs
-- Real-time rendering optimization workflows
-
----
-
-## 🧰 Tools & Technologies
-- **Unreal Engine 5 (Blueprints)**
-- NVIDIA RTX UE Branch
-- Perforce (Version Control)
-- Blender (Assets / Prototyping)
-- Motion Matching (UE5 Animation System)
-
----
-
-## 📌 Development Focus
-This project emphasizes:
-- Clean Blueprint architecture
-- Modular and reusable systems
-- Industry-style workflows
-- Visual quality and performance awareness
-
-It is **not a tutorial project** and was developed iteratively with testing and refactoring.
-
----
-
-## 🚀 Future Improvements
-- Advanced enemy behavior using Behavior Trees
-- Expanded player abilities and skill systems
-- Deeper AI combat interactions
-- Further performance benchmarking across hardware
-
----
-
-## 👤 Author
-**Sudip Pan**  
-Unreal Engine / Gameplay Developer (Blueprint Focused)
-
-- 📧 Email: iamsudippan@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/sudip-pan-7a3946253](https://www.linkedin.com/in/sudip-pan-7a3946253)
-
----
-
-## 📄 License
-This project is currently intended for **portfolio and learning purposes**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
